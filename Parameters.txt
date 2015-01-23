@@ -1,4 +1,4 @@
-MACHINE À BIODIESEL
+MACHINE Ã€ BIODIESEL
 
 Must have:
 
@@ -8,7 +8,7 @@ On/Off --- Is Arduino automatically turned on when plugged in to PC?
 	Can turn on motor
 	Can turn on heating component
 - Automatic:
-	Create a previously calculated amount of biodiesel, using a specific sequence controlling valves, heating and motor.
+	Create a previously calculated amount of biodiesel, using a specific timed sequence controlling valves, heating and motor.
 	
 Should have:
 	Customizable (If computer client doesn't work/out of scope)
