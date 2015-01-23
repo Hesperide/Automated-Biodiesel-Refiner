@@ -1,0 +1,21 @@
+MACHINE À BIODIESEL
+
+Must have:
+
+On/Off --- Is Arduino automatically turned on when plugged in to PC?
+- Manual:
+	Can individually open valves
+	Can turn on motor
+	Can turn on heating component
+- Automatic:
+	Create a previously calculated amount of biodiesel, using a specific sequence controlling valves, heating and motor.
+	
+Should have:
+	Customizable (If computer client doesn't work/out of scope)
+
+Nice to have:
+	Computer client:
+		Modify desired values for automatic
+		Estimated time/Time since start
+		Current Temperature in tank
+		
